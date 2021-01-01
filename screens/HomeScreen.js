@@ -43,7 +43,7 @@ export default class BookDonateScreen extends Component {
                 titleStyle={{ color: 'black', fontWeight: 'bold' }}
                 rightElement={
                     <TouchableOpacity style={styles.button}>
-                        <Text style={{ color: '#ffff' }}>View</Text>
+                        <Text style={{ color: '#ffff' }}>Exchange</Text>
                     </TouchableOpacity>
                 }
                 bottomDivider
