@@ -5,7 +5,7 @@ import firebase from 'firebase';
 import db from '../config'
 import MyHeader from '../components/MyHeader';
 
-export default class BookDonateScreen extends Component {
+export default class HomeScreen extends Component {
     constructor() {
         super()
         this.state = {
